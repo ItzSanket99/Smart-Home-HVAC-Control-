@@ -53,6 +53,7 @@ UART Task	Logs system status securely using mutex
 
 ## 📂 Folder Structure
 
+```
 KPIT_Honors_Assessment/
 │
 ├── Core/
@@ -64,7 +65,9 @@ KPIT_Honors_Assessment/
 │   └── STM32F4xx_HAL_Driver/
 │
 ├── README.md
-└── .project files
+└── Project files (.project, .cproject, etc.)
+```
+
 
 
 ## 🧠 Concepts Learned
